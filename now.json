@@ -1,0 +1,9 @@
+{
+  "name": "My Setup",
+  "alias": ["isos", "iso", "setup"],
+  "version": 2,
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+  "github": {
+    "silent": true
+  }
+}
